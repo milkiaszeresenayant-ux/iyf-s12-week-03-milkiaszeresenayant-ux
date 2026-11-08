@@ -1,0 +1,8 @@
+body {
+  max-width: 45rem;
+  margin: 4rem auto;
+  padding-inline: 1rem;
+  color: #172033;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
